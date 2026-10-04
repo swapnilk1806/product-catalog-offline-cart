@@ -4,16 +4,8 @@
 
 **Video Demo:**  
 <!-- Add your Google Drive / YouTube Unlisted / other accessible screen recording link here -->
+[**🎬 WATCH PROJECT DEMO**](https://drive.google.com/file/d/1S3HnmCNVHha3tA3FZF-vKGOKDqM8kzgf/view)
 
-## Demo
-<video
-    src="https://drive.google.com/uc?export=download&id=1S3HnmCNVHha3tA3FZF-vKGOKDqM8kzgf"
-    controls
-    autoplay
-    muted
-    playsinline
-    width="800">
-</video>
 
 
 ---
